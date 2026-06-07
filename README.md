@@ -110,7 +110,7 @@ The interface can handle growing amounts of data without affecting usability.
 ![Tasksboard](Tasksboard.png)
 
 ### Analytics & Reports
-![Analytics & Reports](Analytics & Reports.png)
+![Analytics & Reports](Analytics.png)
 
 ## Author
 
