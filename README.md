@@ -88,14 +88,29 @@ The interface can handle growing amounts of data without affecting usability.
 
 - Figma
 
-## Screens Included
 
-- Login Screen
-- Dashboard Overview
-- Leads Management
-- Clients Management
-- Task Board
-- Analytics & Reports
+- ## 🖥 Desktop Screens
+
+### Login
+![Loginpage](Loginpage.png)
+
+### Dashboard 
+![Dashboard](Dashboard.png)
+
+### Leads Management
+![Leads](Leads.png)
+
+### Clients Management
+![Clients](Clients.png)
+
+### Calendar
+![Calendar](Calendar.png)
+
+### Task Board
+![Tasksboard](Tasksboard.png)
+
+### Analytics & Reports
+![Analytics & Reports](Analytics & Reports.png)
 
 ## Author
 
